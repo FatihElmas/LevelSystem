@@ -1,0 +1,4 @@
+name: MonoLevels
+version: ${project.version}
+main: com.monodevs.monolevels.Monolevels
+authors: [MonoDevs]
